@@ -1,0 +1,13 @@
+package question;
+
+public class Q2 {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		int x = 10;
+		double y = 20.0;
+
+		System.out.println((double)x + y);
+	}
+
+}
