@@ -1,0 +1,23 @@
+package question;
+
+public class Q1 {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		int x = 10;
+		int y = 20;
+		int z;
+		z = x + y;
+		System.out.println(z);
+
+		z = (x - y);
+		System.out.println(z);
+
+		z = x * y;
+		System.out.println(z);
+
+		z = y / x;
+		System.out.println(z);
+	}
+
+}
